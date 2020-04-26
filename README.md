@@ -44,3 +44,10 @@ Todos tienen una carpeta con el nombre **failed**. Ahí están los archivos que 
 #### Libros: 
 Encontrarás 2 libros (una de JAVA y el otro de ASP.NET) y una guía básica de Scrum.
 ![Imagen referente](imagenes/libros.png)
+#### Estructura de datos:
+Código de un binary tree
+![Imagen referente](imagenes/tree.png)
+
+Espero que les haya gustado y a su vez que haya sido de gran ayuda. De ser así, compártelo para que más personas puedan acceder a los ejercicios y también puedan aprender. Gracias por todo.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51LEGD)
